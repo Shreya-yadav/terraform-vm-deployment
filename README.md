@@ -51,10 +51,5 @@ This repository contains Terraform configurations and scripts for automated depl
 
 Pull requests are welcome! Please open an issue to discuss your ideas or improvements.
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 *Feel free to update this README with specific details about your cloud provider, VM configurations, or usage instructions!*
